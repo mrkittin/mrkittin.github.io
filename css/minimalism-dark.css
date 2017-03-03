@@ -55,6 +55,7 @@ a {
     padding: 20px;
 }
 #mainContent {
+    max-width: 464px;
     background-color: #111;
     box-shadow: 5px 5px 15px #333;
     margin: 0px auto;
